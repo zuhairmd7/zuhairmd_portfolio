@@ -227,7 +227,7 @@ const projects = [
       },
     ],
     image: eventnow,
-    source_code_link: "https://github.com/",
+    source_code_link: "https://github.com/zuhairmd7/Event-Now",
   },
   {
     name: "ADEL Platform",
@@ -252,7 +252,7 @@ const projects = [
       },
     ],
     image: adelcover,
-    source_code_link: "https://github.com/",
+    source_code_link: "https://adel.qabaha.net/?fbclid=IwY2xjawFsFedleHRuA2FlbQIxMAABHaPvI4eyKxps5QDkgRF0M8PJucKH8IajecJUVMT4VL7rIYJjBQmgeFECOQ_aem_smeYIf0QQ03RVmp9cPqF8g",
   },
   /* {
     name: "Trip Guide",

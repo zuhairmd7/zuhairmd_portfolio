@@ -298,7 +298,7 @@ const experiences = [
   },
 ];
 
-const testimonials = [
+/* const testimonials = [
   {
     testimonial:
       "I thought it was impossible to make a website as beautiful as our product, but Rick proved me wrong.",
@@ -323,7 +323,7 @@ const testimonials = [
     company: "456 Enterprises",
     image: "https://randomuser.me/api/portraits/women/6.jpg",
   },
-];
+]; */
 
 const projects = [
   {
@@ -391,7 +391,7 @@ const projects = [
   },
 ];
 
-export { services, technologies, experiences, testimonials, projects };
+export { services, technologies, experiences, projects };
 ```
 </details>
 

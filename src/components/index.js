@@ -11,7 +11,6 @@ import CanvasLoader from "./Loader";
 import Footer from './footer';
 
 
-
 export {
   Hero,
   Navbar,

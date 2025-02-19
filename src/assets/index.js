@@ -27,6 +27,7 @@ import shopify from "./company/shopify.png";
 import starbucks from "./company/starbucks.png";
 import tesla from "./company/tesla.png"; */
 import LK from "./company/LK.png";
+import jawwal from "./company/jawwal.png";
 
 /* import carrent from "./carrent.png";
 import jobit from "./jobit.png";
@@ -62,6 +63,7 @@ export {
   //meta,
   adelcover,
   LK,
+  jawwal,
   /* shopify,
   starbucks,
   tesla, 

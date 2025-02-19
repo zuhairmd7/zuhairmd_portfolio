@@ -25,6 +25,7 @@ import {
   shopify, */
   /* carrent, 
   jobit,*/
+  jawwal,
   eventnow,
   //tripguide,
   // threejs,
@@ -55,7 +56,7 @@ const services = [
     icon: mobile,
   }, */
   {
-    title: "Backend Developer",
+    title: "Aspiring DevOps Engineer",
     icon: backend,
   },
   {
@@ -125,29 +126,28 @@ const technologies = [
 
 const experiences = [
   {
-    title: "Full stack Developer",
+    title: "Full stack Developer Intern",
     company_name: "LK Wellness Services - USA",
     icon: LK,
     iconBg: "#383E56",
     date: "June 2024 - Aug 2024",
     points: [
-      "Developing and maintaining an Event management website using NextJS and other related technologies.",
-      "Implementing responsive design and ensuring cross-browser compatibility.",
+      "Developed and maintained an Event management website using NextJS and other related technologies.",
+      "Implement responsive design and ensuring cross-browser compatibility.",
     ],
   },
-  /* {
-    title: "React Native Developer",
-    company_name: "Tesla",
-    icon: tesla,
+  {
+    title: "Ambassador",
+    company_name: "Palestine Telecommunications Company-Jawwal",
+    icon: jawwal,
     iconBg: "#E6DEDD",
-    date: "Jan 2021 - Feb 2022",
+    date: "Nov 2024 - Present",
     points: [
-      "Developing and maintaining web applications using React.js and other related technologies.",
-      "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-      "Implementing responsive design and ensuring cross-browser compatibility.",
-      "Participating in code reviews and providing constructive feedback to other developers.",
+      "Corporate & SOHO Fiber installation Quality Officer | Customer Success Department.",
+
     ],
   },
+  /*
   {
     title: "Web Developer",
     company_name: "Shopify",
@@ -176,7 +176,7 @@ const experiences = [
   }, */
 ];
 
-const testimonials = [
+/* const testimonials = [
   {
     testimonial:
       "I thought it was impossible to make a website as beautiful as our product, but Rick proved me wrong.",
@@ -201,7 +201,7 @@ const testimonials = [
     company: "456 Enterprises",
     image: "https://randomuser.me/api/portraits/women/6.jpg",
   },
-];
+]; */
 
 const projects = [
   {
@@ -277,4 +277,4 @@ const projects = [
   }, */
 ];
 
-export { services, technologies, experiences, testimonials, projects };
+export { services, technologies, experiences, projects };
